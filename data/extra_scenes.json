@@ -1,0 +1,6628 @@
+[
+  {
+    "data_tags": [
+      "parasite",
+      "cinematic",
+      "satirical",
+      "thriller",
+      "class",
+      "tension"
+    ],
+    "director": "Bong Joon-ho",
+    "id": "parasite-house-tension",
+    "image": "/static/assets/real/parasite-house-tension.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "satirical",
+      "thriller"
+    ],
+    "palette": [
+      "modern",
+      "house"
+    ],
+    "prompt": "A cinematic reference with satirical thriller mood, class tension story energy, and a modern house palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "class",
+      "tension"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Parasite",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "moonlight",
+      "cinematic",
+      "tender",
+      "melancholic",
+      "identity"
+    ],
+    "director": "Barry Jenkins",
+    "id": "moonlight-blue-memory",
+    "image": "/static/assets/real/moonlight-blue-memory.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Moonlight_(2016_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "tender",
+      "melancholic"
+    ],
+    "palette": [
+      "blue",
+      "night"
+    ],
+    "prompt": "A cinematic reference with tender melancholic mood, identity story energy, and a blue night palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "identity"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Moonlight",
+    "year": 2016
+  },
+  {
+    "data_tags": [
+      "lost in translation",
+      "cinematic",
+      "lonely",
+      "intimate",
+      "hotel",
+      "connection"
+    ],
+    "director": "Sofia Coppola",
+    "id": "lost-in-translation-hotel",
+    "image": "/static/assets/real/lost-in-translation-hotel.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Lost_in_Translation_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "lonely",
+      "intimate"
+    ],
+    "palette": [
+      "neon",
+      "city"
+    ],
+    "prompt": "A cinematic reference with lonely intimate mood, hotel connection story energy, and a neon city palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "hotel",
+      "connection"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Lost in Translation",
+    "year": 2003
+  },
+  {
+    "data_tags": [
+      "eternal sunshine of the spotless mind",
+      "cinematic",
+      "surreal",
+      "bittersweet",
+      "memory",
+      "breakup"
+    ],
+    "director": "Michel Gondry",
+    "id": "eternal-sunshine-memory",
+    "image": "/static/assets/real/eternal-sunshine-memory.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "surreal",
+      "bittersweet"
+    ],
+    "palette": [
+      "winter",
+      "beach"
+    ],
+    "prompt": "A cinematic reference with surreal bittersweet mood, memory breakup story energy, and a winter beach palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "memory",
+      "breakup"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004
+  },
+  {
+    "data_tags": [
+      "arrival",
+      "cinematic",
+      "awe",
+      "solemn",
+      "first",
+      "contact"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "arrival-fog-language",
+    "image": "/static/assets/real/arrival-fog-language.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Arrival_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "awe",
+      "solemn"
+    ],
+    "palette": [
+      "mist",
+      "gray"
+    ],
+    "prompt": "A cinematic reference with awe solemn mood, first contact story energy, and a mist gray palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "first",
+      "contact"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Arrival",
+    "year": 2016
+  },
+  {
+    "data_tags": [
+      "interstellar",
+      "cinematic",
+      "epic",
+      "emotional",
+      "family",
+      "time"
+    ],
+    "director": "Christopher Nolan",
+    "id": "interstellar-cosmic-family",
+    "image": "/static/assets/real/interstellar-cosmic-family.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "epic",
+      "emotional"
+    ],
+    "palette": [
+      "space",
+      "black"
+    ],
+    "prompt": "A cinematic reference with epic emotional mood, family time story energy, and a space black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "family",
+      "time"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Interstellar",
+    "year": 2014
+  },
+  {
+    "data_tags": [
+      "mad max: fury road",
+      "cinematic",
+      "furious",
+      "kinetic",
+      "desert",
+      "chase"
+    ],
+    "director": "George Miller",
+    "id": "mad-max-fury-road-chase",
+    "image": "/static/assets/real/mad-max-fury-road-chase.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Mad_Max%3A_Fury_Road",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "furious",
+      "kinetic"
+    ],
+    "palette": [
+      "orange",
+      "dust"
+    ],
+    "prompt": "A cinematic reference with furious kinetic mood, desert chase story energy, and a orange dust palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "desert",
+      "chase"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Mad Max: Fury Road",
+    "year": 2015
+  },
+  {
+    "data_tags": [
+      "the matrix",
+      "cinematic",
+      "cool",
+      "paranoid",
+      "reality",
+      "choice"
+    ],
+    "director": "The Wachowskis",
+    "id": "the-matrix-green-choice",
+    "image": "/static/assets/real/the-matrix-green-choice.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Matrix",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "cool",
+      "paranoid"
+    ],
+    "palette": [
+      "green",
+      "black"
+    ],
+    "prompt": "A cinematic reference with cool paranoid mood, reality choice story energy, and a green black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "reality",
+      "choice"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Matrix",
+    "year": 1999
+  },
+  {
+    "data_tags": [
+      "pulp fiction",
+      "cinematic",
+      "cool",
+      "volatile",
+      "crime",
+      "coincidence"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "pulp-fiction-neon-diner",
+    "image": "/static/assets/real/pulp-fiction-neon-diner.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Pulp_Fiction",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "cool",
+      "volatile"
+    ],
+    "palette": [
+      "yellow",
+      "black"
+    ],
+    "prompt": "A cinematic reference with cool volatile mood, crime coincidence story energy, and a yellow black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "crime",
+      "coincidence"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Pulp Fiction",
+    "year": 1994
+  },
+  {
+    "data_tags": [
+      "goodfellas",
+      "cinematic",
+      "restless",
+      "dangerous",
+      "criminal",
+      "rise"
+    ],
+    "director": "Martin Scorsese",
+    "id": "goodfellas-night-energy",
+    "image": "/static/assets/real/goodfellas-night-energy.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Goodfellas",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "restless",
+      "dangerous"
+    ],
+    "palette": [
+      "night",
+      "red"
+    ],
+    "prompt": "A cinematic reference with restless dangerous mood, criminal rise story energy, and a night red palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "criminal",
+      "rise"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Goodfellas",
+    "year": 1990
+  },
+  {
+    "data_tags": [
+      "taxi driver",
+      "cinematic",
+      "alienated",
+      "gritty",
+      "urban",
+      "isolation"
+    ],
+    "director": "Martin Scorsese",
+    "id": "taxi-driver-street-alienation",
+    "image": "/static/assets/real/taxi-driver-street-alienation.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Taxi_Driver",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "alienated",
+      "gritty"
+    ],
+    "palette": [
+      "yellow",
+      "neon"
+    ],
+    "prompt": "A cinematic reference with alienated gritty mood, urban isolation story energy, and a yellow neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "urban",
+      "isolation"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Taxi Driver",
+    "year": 1976
+  },
+  {
+    "data_tags": [
+      "fight club",
+      "cinematic",
+      "raw",
+      "nihilistic",
+      "identity",
+      "revolt"
+    ],
+    "director": "David Fincher",
+    "id": "fight-club-basement-chaos",
+    "image": "/static/assets/real/fight-club-basement-chaos.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Fight_Club",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "raw",
+      "nihilistic"
+    ],
+    "palette": [
+      "sickly",
+      "green"
+    ],
+    "prompt": "A cinematic reference with raw nihilistic mood, identity revolt story energy, and a sickly green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "identity",
+      "revolt"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Fight Club",
+    "year": 1999
+  },
+  {
+    "data_tags": [
+      "seven",
+      "cinematic",
+      "bleak",
+      "tense",
+      "murder",
+      "investigation"
+    ],
+    "director": "David Fincher",
+    "id": "se7en-rain-investigation",
+    "image": "/static/assets/real/se7en-rain-investigation.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "bleak",
+      "tense"
+    ],
+    "palette": [
+      "rain",
+      "gray"
+    ],
+    "prompt": "A cinematic reference with bleak tense mood, murder investigation story energy, and a rain gray palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "murder",
+      "investigation"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Seven",
+    "year": 1995
+  },
+  {
+    "data_tags": [
+      "zodiac",
+      "cinematic",
+      "obsessive",
+      "procedural",
+      "unsolved",
+      "mystery"
+    ],
+    "director": "David Fincher",
+    "id": "zodiac-paper-obsession",
+    "image": "/static/assets/real/zodiac-paper-obsession.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Zodiac_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "obsessive",
+      "procedural"
+    ],
+    "palette": [
+      "paper",
+      "beige"
+    ],
+    "prompt": "A cinematic reference with obsessive procedural mood, unsolved mystery story energy, and a paper beige palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "unsolved",
+      "mystery"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Zodiac",
+    "year": 2007
+  },
+  {
+    "data_tags": [
+      "the social network",
+      "cinematic",
+      "cold",
+      "ambitious",
+      "friendship",
+      "fracture"
+    ],
+    "director": "David Fincher",
+    "id": "social-network-blue-ambition",
+    "image": "/static/assets/real/social-network-blue-ambition.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Social_Network",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "cold",
+      "ambitious"
+    ],
+    "palette": [
+      "blue",
+      "amber"
+    ],
+    "prompt": "A cinematic reference with cold ambitious mood, friendship fracture story energy, and a blue amber palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "friendship",
+      "fracture"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Social Network",
+    "year": 2010
+  },
+  {
+    "data_tags": [
+      "whiplash",
+      "cinematic",
+      "intense",
+      "obsessive",
+      "mentor",
+      "conflict"
+    ],
+    "director": "Damien Chazelle",
+    "id": "whiplash-stage-pressure",
+    "image": "/static/assets/real/whiplash-stage-pressure.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Whiplash_(2014_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "intense",
+      "obsessive"
+    ],
+    "palette": [
+      "gold",
+      "black"
+    ],
+    "prompt": "A cinematic reference with intense obsessive mood, mentor conflict story energy, and a gold black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "mentor",
+      "conflict"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Whiplash",
+    "year": 2014
+  },
+  {
+    "data_tags": [
+      "la la land",
+      "cinematic",
+      "romantic",
+      "dreamy",
+      "ambition",
+      "romance"
+    ],
+    "director": "Damien Chazelle",
+    "id": "la-la-land-dream-dance",
+    "image": "/static/assets/real/la-la-land-dream-dance.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/La_La_Land",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "romantic",
+      "dreamy"
+    ],
+    "palette": [
+      "purple",
+      "gold"
+    ],
+    "prompt": "A cinematic reference with romantic dreamy mood, ambition romance story energy, and a purple gold palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "ambition",
+      "romance"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "La La Land",
+    "year": 2016
+  },
+  {
+    "data_tags": [
+      "the lighthouse",
+      "cinematic",
+      "claustrophobic",
+      "uncanny",
+      "isolation",
+      "madness"
+    ],
+    "director": "Robert Eggers",
+    "id": "the-lighthouse-storm-madness",
+    "image": "/static/assets/real/the-lighthouse-storm-madness.jpeg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "claustrophobic",
+      "uncanny"
+    ],
+    "palette": [
+      "black",
+      "white"
+    ],
+    "prompt": "A cinematic reference with claustrophobic uncanny mood, isolation madness story energy, and a black white palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "isolation",
+      "madness"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Lighthouse",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "the witch",
+      "cinematic",
+      "austere",
+      "dreadful",
+      "family",
+      "paranoia"
+    ],
+    "director": "Robert Eggers",
+    "id": "the-witch-forest-dread",
+    "image": "/static/assets/real/the-witch-forest-dread.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Witch_(2015_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "austere",
+      "dreadful"
+    ],
+    "palette": [
+      "forest",
+      "brown"
+    ],
+    "prompt": "A cinematic reference with austere dreadful mood, family paranoia story energy, and a forest brown palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "family",
+      "paranoia"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Witch",
+    "year": 2015
+  },
+  {
+    "data_tags": [
+      "midsommar",
+      "cinematic",
+      "bright",
+      "unsettling",
+      "ritual",
+      "grief"
+    ],
+    "director": "Ari Aster",
+    "id": "midsommar-daylight-horror",
+    "image": "/static/assets/real/midsommar-daylight-horror.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Midsommar",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "bright",
+      "unsettling"
+    ],
+    "palette": [
+      "white",
+      "floral"
+    ],
+    "prompt": "A cinematic reference with bright unsettling mood, ritual grief story energy, and a white floral palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "ritual",
+      "grief"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Midsommar",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "get out",
+      "cinematic",
+      "uneasy",
+      "satirical",
+      "social",
+      "horror"
+    ],
+    "director": "Jordan Peele",
+    "id": "get-out-suburban-dread",
+    "image": "/static/assets/real/get-out-suburban-dread.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Get_Out",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "uneasy",
+      "satirical"
+    ],
+    "palette": [
+      "suburban",
+      "green"
+    ],
+    "prompt": "A cinematic reference with uneasy satirical mood, social horror story energy, and a suburban green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "social",
+      "horror"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Get Out",
+    "year": 2017
+  },
+  {
+    "data_tags": [
+      "nope",
+      "cinematic",
+      "awe",
+      "ominous",
+      "spectacle",
+      "survival"
+    ],
+    "director": "Jordan Peele",
+    "id": "nope-sky-spectacle",
+    "image": "/static/assets/real/nope-sky-spectacle.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Nope_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "awe",
+      "ominous"
+    ],
+    "palette": [
+      "sky",
+      "blue"
+    ],
+    "prompt": "A cinematic reference with awe ominous mood, spectacle survival story energy, and a sky blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "spectacle",
+      "survival"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Nope",
+    "year": 2022
+  },
+  {
+    "data_tags": [
+      "ex machina",
+      "cinematic",
+      "clinical",
+      "tense",
+      "ai",
+      "manipulation"
+    ],
+    "director": "Alex Garland",
+    "id": "ex-machina-glass-control",
+    "image": "/static/assets/real/ex-machina-glass-control.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "clinical",
+      "tense"
+    ],
+    "palette": [
+      "glass",
+      "green"
+    ],
+    "prompt": "A cinematic reference with clinical tense mood, ai manipulation story energy, and a glass green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "ai",
+      "manipulation"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Ex Machina",
+    "year": 2014
+  },
+  {
+    "data_tags": [
+      "annihilation",
+      "cinematic",
+      "surreal",
+      "eerie",
+      "mutation",
+      "journey"
+    ],
+    "director": "Alex Garland",
+    "id": "annihilation-biological-dream",
+    "image": "/static/assets/real/annihilation-biological-dream.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Annihilation_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "surreal",
+      "eerie"
+    ],
+    "palette": [
+      "iridescent",
+      "forest"
+    ],
+    "prompt": "A cinematic reference with surreal eerie mood, mutation journey story energy, and a iridescent forest palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "mutation",
+      "journey"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Annihilation",
+    "year": 2018
+  },
+  {
+    "data_tags": [
+      "children of men",
+      "cinematic",
+      "desperate",
+      "urgent",
+      "hope",
+      "survival"
+    ],
+    "director": "Alfonso Cuaron",
+    "id": "children-of-men-long-take",
+    "image": "/static/assets/real/children-of-men-long-take.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Children_of_Men",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "desperate",
+      "urgent"
+    ],
+    "palette": [
+      "war",
+      "gray"
+    ],
+    "prompt": "A cinematic reference with desperate urgent mood, hope survival story energy, and a war gray palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "hope",
+      "survival"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Children of Men",
+    "year": 2006
+  },
+  {
+    "data_tags": [
+      "roma",
+      "cinematic",
+      "quiet",
+      "observant",
+      "domestic",
+      "memory"
+    ],
+    "director": "Alfonso Cuaron",
+    "id": "roma-domestic-memory",
+    "image": "/static/assets/real/roma-domestic-memory.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Roma_(2018_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "quiet",
+      "observant"
+    ],
+    "palette": [
+      "black",
+      "white"
+    ],
+    "prompt": "A cinematic reference with quiet observant mood, domestic memory story energy, and a black white palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "domestic",
+      "memory"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Roma",
+    "year": 2018
+  },
+  {
+    "data_tags": [
+      "gravity",
+      "cinematic",
+      "isolated",
+      "suspenseful",
+      "space",
+      "survival"
+    ],
+    "director": "Alfonso Cuaron",
+    "id": "gravity-space-survival",
+    "image": "/static/assets/real/gravity-space-survival.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Gravity_(2013_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "isolated",
+      "suspenseful"
+    ],
+    "palette": [
+      "earth",
+      "blue"
+    ],
+    "prompt": "A cinematic reference with isolated suspenseful mood, space survival story energy, and a earth blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "space",
+      "survival"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Gravity",
+    "year": 2013
+  },
+  {
+    "data_tags": [
+      "birdman",
+      "cinematic",
+      "anxious",
+      "theatrical",
+      "ego",
+      "collapse"
+    ],
+    "director": "Alejandro G. Inarritu",
+    "id": "birdman-theater-frenzy",
+    "image": "/static/assets/real/birdman-theater-frenzy.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Birdman_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "anxious",
+      "theatrical"
+    ],
+    "palette": [
+      "backstage",
+      "amber"
+    ],
+    "prompt": "A cinematic reference with anxious theatrical mood, ego collapse story energy, and a backstage amber palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "ego",
+      "collapse"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Birdman",
+    "year": 2014
+  },
+  {
+    "data_tags": [
+      "the revenant",
+      "cinematic",
+      "brutal",
+      "elemental",
+      "revenge",
+      "survival"
+    ],
+    "director": "Alejandro G. Inarritu",
+    "id": "revenant-winter-revenge",
+    "image": "/static/assets/real/revenant-winter-revenge.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Revenant_(2015_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "brutal",
+      "elemental"
+    ],
+    "palette": [
+      "snow",
+      "gray"
+    ],
+    "prompt": "A cinematic reference with brutal elemental mood, revenge survival story energy, and a snow gray palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "revenge",
+      "survival"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Revenant",
+    "year": 2015
+  },
+  {
+    "data_tags": [
+      "the tree of life",
+      "cinematic",
+      "spiritual",
+      "lyrical",
+      "childhood",
+      "grace"
+    ],
+    "director": "Terrence Malick",
+    "id": "tree-of-life-cosmic-childhood",
+    "image": "/static/assets/real/tree-of-life-cosmic-childhood.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Tree_of_Life_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "spiritual",
+      "lyrical"
+    ],
+    "palette": [
+      "sun",
+      "green"
+    ],
+    "prompt": "A cinematic reference with spiritual lyrical mood, childhood grace story energy, and a sun green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "childhood",
+      "grace"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Tree of Life",
+    "year": 2011
+  },
+  {
+    "data_tags": [
+      "the thin red line",
+      "cinematic",
+      "poetic",
+      "haunted",
+      "war",
+      "nature"
+    ],
+    "director": "Terrence Malick",
+    "id": "thin-red-line-war-reverie",
+    "image": "/static/assets/real/thin-red-line-war-reverie.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "poetic",
+      "haunted"
+    ],
+    "palette": [
+      "jungle",
+      "green"
+    ],
+    "prompt": "A cinematic reference with poetic haunted mood, war nature story energy, and a jungle green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "war",
+      "nature"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Thin Red Line",
+    "year": 1998
+  },
+  {
+    "data_tags": [
+      "portrait of a lady on fire",
+      "painting",
+      "restrained",
+      "romantic",
+      "forbidden",
+      "portrait"
+    ],
+    "director": "Celine Sciamma",
+    "id": "portrait-lady-fire-coastal",
+    "image": "/static/assets/real/portrait-lady-fire-coastal.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_on_Fire",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Painting",
+    "mood": [
+      "restrained",
+      "romantic"
+    ],
+    "palette": [
+      "sea",
+      "blue"
+    ],
+    "prompt": "A painting reference with restrained romantic mood, forbidden portrait story energy, and a sea blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "forbidden",
+      "portrait"
+    ],
+    "style": [
+      "painterly",
+      "textured color",
+      "fine-art composition"
+    ],
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "blue is the warmest colour",
+      "cinematic",
+      "intimate",
+      "yearning",
+      "first",
+      "love"
+    ],
+    "director": "Abdellatif Kechiche",
+    "id": "blue-is-warmest-intimacy",
+    "image": "/static/assets/real/blue-is-warmest-intimacy.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Blue_Is_the_Warmest_Colour",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "intimate",
+      "yearning"
+    ],
+    "palette": [
+      "blue",
+      "warm"
+    ],
+    "prompt": "A cinematic reference with intimate yearning mood, first love story energy, and a blue warm palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "first",
+      "love"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Blue Is the Warmest Colour",
+    "year": 2013
+  },
+  {
+    "data_tags": [
+      "call me by your name",
+      "cinematic",
+      "sensual",
+      "nostalgic",
+      "summer",
+      "desire"
+    ],
+    "director": "Luca Guadagnino",
+    "id": "call-me-by-your-name-summer",
+    "image": "/static/assets/real/call-me-by-your-name-summer.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "sensual",
+      "nostalgic"
+    ],
+    "palette": [
+      "peach",
+      "green"
+    ],
+    "prompt": "A cinematic reference with sensual nostalgic mood, summer desire story energy, and a peach green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "summer",
+      "desire"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Call Me by Your Name",
+    "year": 2017
+  },
+  {
+    "data_tags": [
+      "lady bird",
+      "cinematic",
+      "restless",
+      "tender",
+      "mother",
+      "daughter"
+    ],
+    "director": "Greta Gerwig",
+    "id": "lady-bird-sacramento",
+    "image": "/static/assets/real/lady-bird-sacramento.jpeg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Lady_Bird_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "restless",
+      "tender"
+    ],
+    "palette": [
+      "warm",
+      "suburban"
+    ],
+    "prompt": "A cinematic reference with restless tender mood, mother daughter story energy, and a warm suburban palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "mother",
+      "daughter"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Lady Bird",
+    "year": 2017
+  },
+  {
+    "data_tags": [
+      "frances ha",
+      "cinematic",
+      "awkward",
+      "hopeful",
+      "friendship",
+      "drift"
+    ],
+    "director": "Noah Baumbach",
+    "id": "frances-ha-friendship",
+    "image": "/static/assets/real/frances-ha-friendship.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Frances_Ha",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "awkward",
+      "hopeful"
+    ],
+    "palette": [
+      "black",
+      "white"
+    ],
+    "prompt": "A cinematic reference with awkward hopeful mood, friendship drift story energy, and a black white palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "friendship",
+      "drift"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Frances Ha",
+    "year": 2012
+  },
+  {
+    "data_tags": [
+      "marriage story",
+      "cinematic",
+      "raw",
+      "intimate",
+      "divorce",
+      "family"
+    ],
+    "director": "Noah Baumbach",
+    "id": "marriage-story-apartment",
+    "image": "/static/assets/real/marriage-story-apartment.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Marriage_Story",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "raw",
+      "intimate"
+    ],
+    "palette": [
+      "neutral",
+      "apartment"
+    ],
+    "prompt": "A cinematic reference with raw intimate mood, divorce family story energy, and a neutral apartment palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "divorce",
+      "family"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Marriage Story",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "poor things",
+      "cinematic",
+      "surreal",
+      "liberated",
+      "self",
+      "invention"
+    ],
+    "director": "Yorgos Lanthimos",
+    "id": "poor-things-surreal-voyage",
+    "image": "/static/assets/real/poor-things-surreal-voyage.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Poor_Things_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "surreal",
+      "liberated"
+    ],
+    "palette": [
+      "candy",
+      "color"
+    ],
+    "prompt": "A cinematic reference with surreal liberated mood, self invention story energy, and a candy color palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "self",
+      "invention"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Poor Things",
+    "year": 2023
+  },
+  {
+    "data_tags": [
+      "everything everywhere all at once",
+      "cinematic",
+      "chaotic",
+      "heartfelt",
+      "multiverse",
+      "family"
+    ],
+    "director": "Daniel Kwan and Daniel Scheinert",
+    "id": "everything-everywhere-chaos",
+    "image": "/static/assets/real/everything-everywhere-chaos.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "chaotic",
+      "heartfelt"
+    ],
+    "palette": [
+      "rainbow",
+      "neon"
+    ],
+    "prompt": "A cinematic reference with chaotic heartfelt mood, multiverse family story energy, and a rainbow neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "multiverse",
+      "family"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Everything Everywhere All at Once",
+    "year": 2022
+  },
+  {
+    "data_tags": [
+      "past lives",
+      "cinematic",
+      "quiet",
+      "wistful",
+      "missed",
+      "connection"
+    ],
+    "director": "Celine Song",
+    "id": "past-lives-city-memory",
+    "image": "/static/assets/real/past-lives-city-memory.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Past_Lives_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "quiet",
+      "wistful"
+    ],
+    "palette": [
+      "city",
+      "blue"
+    ],
+    "prompt": "A cinematic reference with quiet wistful mood, missed connection story energy, and a city blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "missed",
+      "connection"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Past Lives",
+    "year": 2023
+  },
+  {
+    "data_tags": [
+      "aftersun",
+      "cinematic",
+      "tender",
+      "haunted",
+      "father",
+      "daughter"
+    ],
+    "director": "Charlotte Wells",
+    "id": "aftersun-pool-memory",
+    "image": "/static/assets/real/aftersun-pool-memory.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Aftersun",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "tender",
+      "haunted"
+    ],
+    "palette": [
+      "sun",
+      "washed"
+    ],
+    "prompt": "A cinematic reference with tender haunted mood, father daughter memory story energy, and a sun washed palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "father",
+      "daughter",
+      "memory"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Aftersun",
+    "year": 2022
+  },
+  {
+    "data_tags": [
+      "drive",
+      "cinematic",
+      "cool",
+      "lonely",
+      "criminal",
+      "romance"
+    ],
+    "director": "Nicolas Winding Refn",
+    "id": "drive-neon-silence",
+    "image": "/static/assets/real/drive-neon-silence.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Drive_(2011_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "cool",
+      "lonely"
+    ],
+    "palette": [
+      "pink",
+      "neon"
+    ],
+    "prompt": "A cinematic reference with cool lonely mood, criminal romance story energy, and a pink neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "criminal",
+      "romance"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Drive",
+    "year": 2011
+  },
+  {
+    "data_tags": [
+      "nightcrawler",
+      "cinematic",
+      "predatory",
+      "nocturnal",
+      "media",
+      "ambition"
+    ],
+    "director": "Dan Gilroy",
+    "id": "nightcrawler-late-night-hunger",
+    "image": "/static/assets/real/nightcrawler-late-night-hunger.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Nightcrawler_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "predatory",
+      "nocturnal"
+    ],
+    "palette": [
+      "sodium",
+      "night"
+    ],
+    "prompt": "A cinematic reference with predatory nocturnal mood, media ambition story energy, and a sodium night palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "media",
+      "ambition"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Nightcrawler",
+    "year": 2014
+  },
+  {
+    "data_tags": [
+      "uncut gems",
+      "cinematic",
+      "anxious",
+      "frantic",
+      "gambling",
+      "spiral"
+    ],
+    "director": "Josh Safdie and Benny Safdie",
+    "id": "uncut-gems-diamond-anxiety",
+    "image": "/static/assets/real/uncut-gems-diamond-anxiety.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Uncut_Gems",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "anxious",
+      "frantic"
+    ],
+    "palette": [
+      "jewel",
+      "neon"
+    ],
+    "prompt": "A cinematic reference with anxious frantic mood, gambling spiral story energy, and a jewel neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "gambling",
+      "spiral"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Uncut Gems",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "the batman",
+      "cinematic",
+      "rainy",
+      "brooding",
+      "detective",
+      "vengeance"
+    ],
+    "director": "Matt Reeves",
+    "id": "the-batman-rain-noir",
+    "image": "/static/assets/real/the-batman-rain-noir.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "rainy",
+      "brooding"
+    ],
+    "palette": [
+      "red",
+      "black"
+    ],
+    "prompt": "A cinematic reference with rainy brooding mood, detective vengeance story energy, and a red black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "detective",
+      "vengeance"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Batman",
+    "year": 2022
+  },
+  {
+    "data_tags": [
+      "dune",
+      "cinematic",
+      "monumental",
+      "mystical",
+      "desert",
+      "prophecy"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "dune-desert-prophecy",
+    "image": "/static/assets/real/dune-desert-prophecy.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "monumental",
+      "mystical"
+    ],
+    "palette": [
+      "sand",
+      "black"
+    ],
+    "prompt": "A cinematic reference with monumental mystical mood, desert prophecy story energy, and a sand black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "desert",
+      "prophecy"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Dune",
+    "year": 2021
+  },
+  {
+    "data_tags": [
+      "dune: part two",
+      "cinematic",
+      "epic",
+      "severe",
+      "holy",
+      "war"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "dune-part-two-war-vision",
+    "image": "/static/assets/real/dune-part-two-war-vision.jpeg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Dune%3A_Part_Two",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "epic",
+      "severe"
+    ],
+    "palette": [
+      "sand",
+      "orange"
+    ],
+    "prompt": "A cinematic reference with epic severe mood, holy war story energy, and a sand orange palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "holy",
+      "war"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Dune: Part Two",
+    "year": 2024
+  },
+  {
+    "data_tags": [
+      "oppenheimer",
+      "cinematic",
+      "grave",
+      "explosive",
+      "scientific",
+      "guilt"
+    ],
+    "director": "Christopher Nolan",
+    "id": "oppenheimer-fire-ethics",
+    "image": "/static/assets/real/oppenheimer-fire-ethics.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "grave",
+      "explosive"
+    ],
+    "palette": [
+      "fire",
+      "black"
+    ],
+    "prompt": "A cinematic reference with grave explosive mood, scientific guilt story energy, and a fire black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "scientific",
+      "guilt"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Oppenheimer",
+    "year": 2023
+  },
+  {
+    "data_tags": [
+      "tenet",
+      "cinematic",
+      "cool",
+      "intricate",
+      "time",
+      "espionage"
+    ],
+    "director": "Christopher Nolan",
+    "id": "tenet-time-inversion",
+    "image": "/static/assets/real/tenet-time-inversion.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Tenet",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "cool",
+      "intricate"
+    ],
+    "palette": [
+      "steel",
+      "blue"
+    ],
+    "prompt": "A cinematic reference with cool intricate mood, time espionage story energy, and a steel blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "time",
+      "espionage"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Tenet",
+    "year": 2020
+  },
+  {
+    "data_tags": [
+      "barbie",
+      "cinematic",
+      "bright",
+      "existential",
+      "identity",
+      "comedy"
+    ],
+    "director": "Greta Gerwig",
+    "id": "barbie-plastic-crisis",
+    "image": "/static/assets/real/barbie-plastic-crisis.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Barbie_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "bright",
+      "existential"
+    ],
+    "palette": [
+      "pink",
+      "cyan"
+    ],
+    "prompt": "A cinematic reference with bright existential mood, identity comedy story energy, and a pink cyan palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "identity",
+      "comedy"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Barbie",
+    "year": 2023
+  },
+  {
+    "data_tags": [
+      "jojo rabbit",
+      "cinematic",
+      "comic",
+      "tragic",
+      "childhood",
+      "propaganda"
+    ],
+    "director": "Taika Waititi",
+    "id": "jojo-rabbit-childhood-war",
+    "image": "/static/assets/real/jojo-rabbit-childhood-war.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Jojo_Rabbit",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "comic",
+      "tragic"
+    ],
+    "palette": [
+      "pastel",
+      "war"
+    ],
+    "prompt": "A cinematic reference with comic tragic mood, childhood propaganda story energy, and a pastel war palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "childhood",
+      "propaganda"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Jojo Rabbit",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "the shape of water",
+      "cinematic",
+      "romantic",
+      "aquatic",
+      "outsider",
+      "love"
+    ],
+    "director": "Guillermo del Toro",
+    "id": "the-shape-of-water-lab-romance",
+    "image": "/static/assets/real/the-shape-of-water-lab-romance.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Shape_of_Water",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "romantic",
+      "aquatic"
+    ],
+    "palette": [
+      "teal",
+      "green"
+    ],
+    "prompt": "A cinematic reference with romantic aquatic mood, outsider love story energy, and a teal green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "outsider",
+      "love"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Shape of Water",
+    "year": 2017
+  },
+  {
+    "data_tags": [
+      "crimson peak",
+      "cinematic",
+      "gothic",
+      "lush",
+      "haunted",
+      "romance"
+    ],
+    "director": "Guillermo del Toro",
+    "id": "crimson-peak-gothic-red",
+    "image": "/static/assets/real/crimson-peak-gothic-red.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Crimson_Peak",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "gothic",
+      "lush"
+    ],
+    "palette": [
+      "red",
+      "snow"
+    ],
+    "prompt": "A cinematic reference with gothic lush mood, haunted romance story energy, and a red snow palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "haunted",
+      "romance"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Crimson Peak",
+    "year": 2015
+  },
+  {
+    "data_tags": [
+      "nightmare alley",
+      "cinematic",
+      "noir",
+      "doomed",
+      "con",
+      "artistry"
+    ],
+    "director": "Guillermo del Toro",
+    "id": "nightmare-alley-carnival",
+    "image": "/static/assets/real/nightmare-alley-carnival.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Nightmare_Alley_(2021_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "noir",
+      "doomed"
+    ],
+    "palette": [
+      "carnival",
+      "amber"
+    ],
+    "prompt": "A cinematic reference with noir doomed mood, con artistry story energy, and a carnival amber palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "con",
+      "artistry"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Nightmare Alley",
+    "year": 2021
+  },
+  {
+    "data_tags": [
+      "moulin rouge!",
+      "cinematic",
+      "maximal",
+      "romantic",
+      "stage",
+      "tragedy"
+    ],
+    "director": "Baz Luhrmann",
+    "id": "moulin-rouge-stage-romance",
+    "image": "/static/assets/real/moulin-rouge-stage-romance.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Moulin_Rouge!",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "maximal",
+      "romantic"
+    ],
+    "palette": [
+      "red",
+      "gold"
+    ],
+    "prompt": "A cinematic reference with maximal romantic mood, stage tragedy story energy, and a red gold palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "stage",
+      "tragedy"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Moulin Rouge!",
+    "year": 2001
+  },
+  {
+    "data_tags": [
+      "romeo + juliet",
+      "cinematic",
+      "youthful",
+      "feverish",
+      "doomed",
+      "love"
+    ],
+    "director": "Baz Luhrmann",
+    "id": "romeo-juliet-aquarium",
+    "image": "/static/assets/real/romeo-juliet-aquarium.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Romeo_%2B_Juliet",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "youthful",
+      "feverish"
+    ],
+    "palette": [
+      "neon",
+      "blue"
+    ],
+    "prompt": "A cinematic reference with youthful feverish mood, doomed love story energy, and a neon blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "doomed",
+      "love"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Romeo + Juliet",
+    "year": 1996
+  },
+  {
+    "data_tags": [
+      "the aviator",
+      "cinematic",
+      "glamorous",
+      "obsessive",
+      "flight",
+      "ambition"
+    ],
+    "director": "Martin Scorsese",
+    "id": "amelia-earhart-sky",
+    "image": "/static/assets/real/amelia-earhart-sky.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Aviator_(2004_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "glamorous",
+      "obsessive"
+    ],
+    "palette": [
+      "cyan",
+      "gold"
+    ],
+    "prompt": "A cinematic reference with glamorous obsessive mood, flight ambition story energy, and a cyan gold palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "flight",
+      "ambition"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "The Aviator",
+    "year": 2004
+  },
+  {
+    "data_tags": [
+      "casino",
+      "cinematic",
+      "glittering",
+      "dangerous",
+      "empire",
+      "decay"
+    ],
+    "director": "Martin Scorsese",
+    "id": "casino-velvet-power",
+    "image": "/static/assets/real/casino-velvet-power.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Casino_(1995_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cinematic",
+    "mood": [
+      "glittering",
+      "dangerous"
+    ],
+    "palette": [
+      "casino",
+      "red"
+    ],
+    "prompt": "A cinematic reference with glittering dangerous mood, empire decay story energy, and a casino red palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "empire",
+      "decay"
+    ],
+    "style": [
+      "cinematic",
+      "composed lighting",
+      "visual storytelling"
+    ],
+    "title": "Casino",
+    "year": 1995
+  },
+  {
+    "data_tags": [
+      "howl's moving castle",
+      "anime",
+      "magical",
+      "romantic",
+      "curse",
+      "refuge"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "spirited-away",
+    "image": "/static/assets/real/spirited-away.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Howl's_Moving_Castle_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "magical",
+      "romantic"
+    ],
+    "palette": [
+      "pastel",
+      "sky"
+    ],
+    "prompt": "A anime reference with magical romantic mood, curse refuge story energy, and a pastel sky palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "curse",
+      "refuge"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Howl's Moving Castle",
+    "year": 2004
+  },
+  {
+    "data_tags": [
+      "my neighbor totoro",
+      "anime",
+      "gentle",
+      "wondrous",
+      "childhood",
+      "nature"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "my-neighbor-totoro-rain",
+    "image": "/static/assets/real/my-neighbor-totoro-rain.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "gentle",
+      "wondrous"
+    ],
+    "palette": [
+      "forest",
+      "green"
+    ],
+    "prompt": "A anime reference with gentle wondrous mood, childhood nature story energy, and a forest green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "childhood",
+      "nature"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "My Neighbor Totoro",
+    "year": 1988
+  },
+  {
+    "data_tags": [
+      "princess mononoke",
+      "anime",
+      "mythic",
+      "fierce",
+      "nature",
+      "war"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "princess-mononoke-forest-war",
+    "image": "/static/assets/real/princess-mononoke-forest-war.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Princess_Mononoke",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "mythic",
+      "fierce"
+    ],
+    "palette": [
+      "forest",
+      "blood"
+    ],
+    "prompt": "A anime reference with mythic fierce mood, nature war story energy, and a forest blood palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "nature",
+      "war"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Princess Mononoke",
+    "year": 1997
+  },
+  {
+    "data_tags": [
+      "nausicaa of the valley of the wind",
+      "anime",
+      "ecological",
+      "epic",
+      "toxic",
+      "prophecy"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "nausicaa-toxic-jungle",
+    "image": "/static/assets/real/nausicaa-toxic-jungle.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "ecological",
+      "epic"
+    ],
+    "palette": [
+      "blue",
+      "green"
+    ],
+    "prompt": "A anime reference with ecological epic mood, toxic prophecy story energy, and a blue green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "toxic",
+      "prophecy"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Nausicaa of the Valley of the Wind",
+    "year": 1984
+  },
+  {
+    "data_tags": [
+      "castle in the sky",
+      "anime",
+      "adventurous",
+      "airy",
+      "lost",
+      "civilization"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "castle-in-the-sky-clouds",
+    "image": "/static/assets/real/castle-in-the-sky-clouds.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "adventurous",
+      "airy"
+    ],
+    "palette": [
+      "sky",
+      "blue"
+    ],
+    "prompt": "A anime reference with adventurous airy mood, lost civilization story energy, and a sky blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "lost",
+      "civilization"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Castle in the Sky",
+    "year": 1986
+  },
+  {
+    "data_tags": [
+      "ponyo",
+      "anime",
+      "playful",
+      "oceanic",
+      "child",
+      "magic"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "ponyo-ocean-child",
+    "image": "/static/assets/real/ponyo-ocean-child.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Ponyo",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "playful",
+      "oceanic"
+    ],
+    "palette": [
+      "sea",
+      "blue"
+    ],
+    "prompt": "A anime reference with playful oceanic mood, child magic story energy, and a sea blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "child",
+      "magic"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Ponyo",
+    "year": 2008
+  },
+  {
+    "data_tags": [
+      "grave of the fireflies",
+      "anime",
+      "devastating",
+      "tender",
+      "war",
+      "siblings"
+    ],
+    "director": "Isao Takahata",
+    "id": "grave-fireflies-war-grief",
+    "image": "/static/assets/real/grave-fireflies-war-grief.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Grave_of_the_Fireflies",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "devastating",
+      "tender"
+    ],
+    "palette": [
+      "firefly",
+      "orange"
+    ],
+    "prompt": "A anime reference with devastating tender mood, war siblings story energy, and a firefly orange palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "war",
+      "siblings"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Grave of the Fireflies",
+    "year": 1988
+  },
+  {
+    "data_tags": [
+      "only yesterday",
+      "anime",
+      "nostalgic",
+      "pastoral",
+      "adult",
+      "memory"
+    ],
+    "director": "Isao Takahata",
+    "id": "only-yesterday-memory",
+    "image": "/static/assets/real/only-yesterday-memory.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Only_Yesterday_(1991_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "nostalgic",
+      "pastoral"
+    ],
+    "palette": [
+      "field",
+      "green"
+    ],
+    "prompt": "A anime reference with nostalgic pastoral mood, adult memory story energy, and a field green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "adult",
+      "memory"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Only Yesterday",
+    "year": 1991
+  },
+  {
+    "data_tags": [
+      "wolf children",
+      "anime",
+      "warm",
+      "bittersweet",
+      "single",
+      "parent"
+    ],
+    "director": "Mamoru Hosoda",
+    "id": "wolf-children-family-nature",
+    "image": "/static/assets/real/wolf-children-family-nature.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Wolf_Children",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "warm",
+      "bittersweet"
+    ],
+    "palette": [
+      "mountain",
+      "green"
+    ],
+    "prompt": "A anime reference with warm bittersweet mood, single parent story energy, and a mountain green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "single",
+      "parent"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Wolf Children",
+    "year": 2012
+  },
+  {
+    "data_tags": [
+      "your name",
+      "anime",
+      "romantic",
+      "cosmic",
+      "body",
+      "swap"
+    ],
+    "director": "Makoto Shinkai",
+    "id": "your-name-comet-longing",
+    "image": "/static/assets/real/your-name-comet-longing.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Your_Name",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "romantic",
+      "cosmic"
+    ],
+    "palette": [
+      "twilight",
+      "purple"
+    ],
+    "prompt": "A anime reference with romantic cosmic mood, body swap fate story energy, and a twilight purple palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "body",
+      "swap",
+      "fate"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Your Name",
+    "year": 2016
+  },
+  {
+    "data_tags": [
+      "weathering with you",
+      "anime",
+      "rainy",
+      "yearning",
+      "weather",
+      "miracle"
+    ],
+    "director": "Makoto Shinkai",
+    "id": "weathering-with-you-rain",
+    "image": "/static/assets/real/weathering-with-you-rain.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Weathering_with_You",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "rainy",
+      "yearning"
+    ],
+    "palette": [
+      "rain",
+      "blue"
+    ],
+    "prompt": "A anime reference with rainy yearning mood, weather miracle story energy, and a rain blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "weather",
+      "miracle"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Weathering with You",
+    "year": 2019
+  },
+  {
+    "data_tags": [
+      "suzume",
+      "anime",
+      "adventurous",
+      "mournful",
+      "disaster",
+      "doors"
+    ],
+    "director": "Makoto Shinkai",
+    "id": "suzume-doorway",
+    "image": "/static/assets/real/suzume-doorway.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Suzume",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "adventurous",
+      "mournful"
+    ],
+    "palette": [
+      "sunset",
+      "blue"
+    ],
+    "prompt": "A anime reference with adventurous mournful mood, disaster doors story energy, and a sunset blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "disaster",
+      "doors"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Suzume",
+    "year": 2022
+  },
+  {
+    "data_tags": [
+      "akira",
+      "anime",
+      "explosive",
+      "cyberpunk",
+      "mutation",
+      "rebellion"
+    ],
+    "director": "Katsuhiro Otomo",
+    "id": "akira-neon-mutation",
+    "image": "/static/assets/real/akira-neon-mutation.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Akira_(1988_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "explosive",
+      "cyberpunk"
+    ],
+    "palette": [
+      "red",
+      "neon"
+    ],
+    "prompt": "A anime reference with explosive cyberpunk mood, mutation rebellion story energy, and a red neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "mutation",
+      "rebellion"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Akira",
+    "year": 1988
+  },
+  {
+    "data_tags": [
+      "ghost in the shell",
+      "anime",
+      "philosophical",
+      "cyberpunk",
+      "identity",
+      "network"
+    ],
+    "director": "Mamoru Oshii",
+    "id": "ghost-shell-city-rain",
+    "image": "/static/assets/real/ghost-shell-city-rain.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "philosophical",
+      "cyberpunk"
+    ],
+    "palette": [
+      "rain",
+      "teal"
+    ],
+    "prompt": "A anime reference with philosophical cyberpunk mood, identity network story energy, and a rain teal palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "identity",
+      "network"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Ghost in the Shell",
+    "year": 1995
+  },
+  {
+    "data_tags": [
+      "perfect blue",
+      "anime",
+      "paranoid",
+      "fractured",
+      "celebrity",
+      "identity"
+    ],
+    "director": "Satoshi Kon",
+    "id": "perfect-blue-pop-psychosis",
+    "image": "/static/assets/real/perfect-blue-pop-psychosis.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Perfect_Blue",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "paranoid",
+      "fractured"
+    ],
+    "palette": [
+      "stage",
+      "blue"
+    ],
+    "prompt": "A anime reference with paranoid fractured mood, celebrity identity story energy, and a stage blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "celebrity",
+      "identity"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Perfect Blue",
+    "year": 1997
+  },
+  {
+    "data_tags": [
+      "paprika",
+      "anime",
+      "surreal",
+      "vibrant",
+      "dream",
+      "invasion"
+    ],
+    "director": "Satoshi Kon",
+    "id": "paprika-dream-parade",
+    "image": "/static/assets/real/paprika-dream-parade.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "surreal",
+      "vibrant"
+    ],
+    "palette": [
+      "rainbow",
+      "red"
+    ],
+    "prompt": "A anime reference with surreal vibrant mood, dream invasion story energy, and a rainbow red palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "dream",
+      "invasion"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Paprika",
+    "year": 2006
+  },
+  {
+    "data_tags": [
+      "tokyo godfathers",
+      "anime",
+      "comic",
+      "heartfelt",
+      "found",
+      "family"
+    ],
+    "director": "Satoshi Kon",
+    "id": "tokyo-godfathers-winter",
+    "image": "/static/assets/real/tokyo-godfathers-winter.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Tokyo_Godfathers",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "comic",
+      "heartfelt"
+    ],
+    "palette": [
+      "winter",
+      "city"
+    ],
+    "prompt": "A anime reference with comic heartfelt mood, found family story energy, and a winter city palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "found",
+      "family"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Tokyo Godfathers",
+    "year": 2003
+  },
+  {
+    "data_tags": [
+      "redline",
+      "anime",
+      "kinetic",
+      "wild",
+      "racing",
+      "spectacle"
+    ],
+    "director": "Takeshi Koike",
+    "id": "redline-racing-chaos",
+    "image": "/static/assets/real/redline-racing-chaos.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Redline_(2009_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Anime",
+    "mood": [
+      "kinetic",
+      "wild"
+    ],
+    "palette": [
+      "red",
+      "black"
+    ],
+    "prompt": "A anime reference with kinetic wild mood, racing spectacle story energy, and a red black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "racing",
+      "spectacle"
+    ],
+    "style": [
+      "anime",
+      "drawn motion",
+      "expressive color"
+    ],
+    "title": "Redline",
+    "year": 2009
+  },
+  {
+    "data_tags": [
+      "spider-man: into the spider-verse",
+      "cartoon",
+      "electric",
+      "heartfelt",
+      "multiverse",
+      "hero"
+    ],
+    "director": "Bob Persichetti, Peter Ramsey, and Rodney Rothman",
+    "id": "into-spider-verse-comic-city",
+    "image": "/static/assets/real/into-spider-verse-comic-city.png",
+    "image_source_url": "https://en.wikipedia.org/wiki/Spider-Man%3A_Into_the_Spider-Verse",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "electric",
+      "heartfelt"
+    ],
+    "palette": [
+      "comic",
+      "neon"
+    ],
+    "prompt": "A cartoon reference with electric heartfelt mood, multiverse hero story energy, and a comic neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "multiverse",
+      "hero"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018
+  },
+  {
+    "data_tags": [
+      "spider-man: across the spider-verse",
+      "cartoon",
+      "collage",
+      "kinetic",
+      "identity",
+      "destiny"
+    ],
+    "director": "Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson",
+    "id": "across-spider-verse-collage",
+    "image": "/static/assets/real/across-spider-verse-collage.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Spider-Man%3A_Across_the_Spider-Verse",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "collage",
+      "kinetic"
+    ],
+    "palette": [
+      "ink",
+      "neon"
+    ],
+    "prompt": "A cartoon reference with collage kinetic mood, identity destiny story energy, and a ink neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "identity",
+      "destiny"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023
+  },
+  {
+    "data_tags": [
+      "toy story",
+      "3d",
+      "playful",
+      "nostalgic",
+      "friendship",
+      "jealousy"
+    ],
+    "director": "John Lasseter",
+    "id": "toy-story-bedroom",
+    "image": "/static/assets/real/toy-story-bedroom.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Toy_Story",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "playful",
+      "nostalgic"
+    ],
+    "palette": [
+      "primary",
+      "colors"
+    ],
+    "prompt": "A 3d reference with playful nostalgic mood, friendship jealousy story energy, and a primary colors palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "friendship",
+      "jealousy"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Toy Story",
+    "year": 1995
+  },
+  {
+    "data_tags": [
+      "toy story 3",
+      "3d",
+      "emotional",
+      "adventurous",
+      "letting",
+      "go"
+    ],
+    "director": "Lee Unkrich",
+    "id": "toy-story-3-incinerator",
+    "image": "/static/assets/real/toy-story-3-incinerator.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Toy_Story_3",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "emotional",
+      "adventurous"
+    ],
+    "palette": [
+      "warm",
+      "plastic"
+    ],
+    "prompt": "A 3d reference with emotional adventurous mood, letting go story energy, and a warm plastic palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "letting",
+      "go"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Toy Story 3",
+    "year": 2010
+  },
+  {
+    "data_tags": [
+      "finding nemo",
+      "3d",
+      "bright",
+      "anxious",
+      "parent",
+      "search"
+    ],
+    "director": "Andrew Stanton",
+    "id": "finding-nemo-ocean",
+    "image": "/static/assets/real/finding-nemo-ocean.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Finding_Nemo",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "bright",
+      "anxious"
+    ],
+    "palette": [
+      "ocean",
+      "blue"
+    ],
+    "prompt": "A 3d reference with bright anxious mood, parent search story energy, and a ocean blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "parent",
+      "search"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Finding Nemo",
+    "year": 2003
+  },
+  {
+    "data_tags": [
+      "inside out",
+      "3d",
+      "colorful",
+      "emotional",
+      "inner",
+      "feelings"
+    ],
+    "director": "Pete Docter",
+    "id": "inside-out-headquarters",
+    "image": "/static/assets/real/inside-out-headquarters.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Inside_Out",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "colorful",
+      "emotional"
+    ],
+    "palette": [
+      "memory",
+      "glow"
+    ],
+    "prompt": "A 3d reference with colorful emotional mood, inner feelings story energy, and a memory glow palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "inner",
+      "feelings"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Inside Out",
+    "year": 2015
+  },
+  {
+    "data_tags": [
+      "soul",
+      "3d",
+      "spiritual",
+      "warm",
+      "life",
+      "purpose"
+    ],
+    "director": "Pete Docter",
+    "id": "soul-jazz-afterlife",
+    "image": "/static/assets/real/soul-jazz-afterlife.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Soul_(2020_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "spiritual",
+      "warm"
+    ],
+    "palette": [
+      "jazz",
+      "blue"
+    ],
+    "prompt": "A 3d reference with spiritual warm mood, life purpose story energy, and a jazz blue palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "life",
+      "purpose"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Soul",
+    "year": 2020
+  },
+  {
+    "data_tags": [
+      "coco",
+      "3d",
+      "familial",
+      "festive",
+      "ancestor",
+      "memory"
+    ],
+    "director": "Lee Unkrich",
+    "id": "coco-marigold-bridge",
+    "image": "/static/assets/real/coco-marigold-bridge.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Coco_(2017_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "familial",
+      "festive"
+    ],
+    "palette": [
+      "marigold",
+      "orange"
+    ],
+    "prompt": "A 3d reference with familial festive mood, ancestor memory story energy, and a marigold orange palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "ancestor",
+      "memory"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Coco",
+    "year": 2017
+  },
+  {
+    "data_tags": [
+      "up",
+      "3d",
+      "bittersweet",
+      "adventurous",
+      "grief",
+      "adventure"
+    ],
+    "director": "Pete Docter",
+    "id": "up-balloon-house",
+    "image": "/static/assets/real/up-balloon-house.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Up_(2009_film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "bittersweet",
+      "adventurous"
+    ],
+    "palette": [
+      "sky",
+      "balloons"
+    ],
+    "prompt": "A 3d reference with bittersweet adventurous mood, grief adventure story energy, and a sky balloons palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "grief",
+      "adventure"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Up",
+    "year": 2009
+  },
+  {
+    "data_tags": [
+      "ratatouille",
+      "3d",
+      "warm",
+      "culinary",
+      "hidden",
+      "talent"
+    ],
+    "director": "Brad Bird",
+    "id": "ratatouille-kitchen",
+    "image": "/static/assets/real/ratatouille-kitchen.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Ratatouille_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "warm",
+      "culinary"
+    ],
+    "palette": [
+      "kitchen",
+      "gold"
+    ],
+    "prompt": "A 3d reference with warm culinary mood, hidden talent story energy, and a kitchen gold palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "hidden",
+      "talent"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Ratatouille",
+    "year": 2007
+  },
+  {
+    "data_tags": [
+      "the incredibles",
+      "3d",
+      "retro",
+      "heroic",
+      "family",
+      "teamwork"
+    ],
+    "director": "Brad Bird",
+    "id": "incredibles-family-action",
+    "image": "/static/assets/real/incredibles-family-action.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Incredibles",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "retro",
+      "heroic"
+    ],
+    "palette": [
+      "red",
+      "black"
+    ],
+    "prompt": "A 3d reference with retro heroic mood, family teamwork story energy, and a red black palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "family",
+      "teamwork"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "The Incredibles",
+    "year": 2004
+  },
+  {
+    "data_tags": [
+      "the iron giant",
+      "cartoon",
+      "gentle",
+      "heroic",
+      "child",
+      "robot"
+    ],
+    "director": "Brad Bird",
+    "id": "iron-giant-forest-friend",
+    "image": "/static/assets/real/iron-giant-forest-friend.JPG",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Iron_Giant",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "gentle",
+      "heroic"
+    ],
+    "palette": [
+      "autumn",
+      "gray"
+    ],
+    "prompt": "A cartoon reference with gentle heroic mood, child robot friendship story energy, and a autumn gray palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "child",
+      "robot",
+      "friendship"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "The Iron Giant",
+    "year": 1999
+  },
+  {
+    "data_tags": [
+      "the lego movie",
+      "3d",
+      "comic",
+      "energetic",
+      "ordinary",
+      "hero"
+    ],
+    "director": "Phil Lord and Christopher Miller",
+    "id": "giant-robot-city",
+    "image": "/static/assets/real/giant-robot-city.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Lego_Movie",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "comic",
+      "energetic"
+    ],
+    "palette": [
+      "plastic",
+      "rainbow"
+    ],
+    "prompt": "A 3d reference with comic energetic mood, ordinary hero story energy, and a plastic rainbow palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "ordinary",
+      "hero"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "The Lego Movie",
+    "year": 2014
+  },
+  {
+    "data_tags": [
+      "the mitchells vs. the machines",
+      "cartoon",
+      "chaotic",
+      "warm",
+      "family",
+      "roadtrip"
+    ],
+    "director": "Mike Rianda",
+    "id": "mitchells-machines-family-road",
+    "image": "/static/assets/real/mitchells-machines-family-road.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "chaotic",
+      "warm"
+    ],
+    "palette": [
+      "pop",
+      "neon"
+    ],
+    "prompt": "A cartoon reference with chaotic warm mood, family roadtrip story energy, and a pop neon palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "family",
+      "roadtrip"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "The Mitchells vs. the Machines",
+    "year": 2021
+  },
+  {
+    "data_tags": [
+      "puss in boots: the last wish",
+      "cartoon",
+      "storybook",
+      "adventurous",
+      "mortality",
+      "chase"
+    ],
+    "director": "Joel Crawford",
+    "id": "puss-boots-last-wish",
+    "image": "/static/assets/real/puss-boots-last-wish.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Puss_in_Boots%3A_The_Last_Wish",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "storybook",
+      "adventurous"
+    ],
+    "palette": [
+      "painted",
+      "gold"
+    ],
+    "prompt": "A cartoon reference with storybook adventurous mood, mortality chase story energy, and a painted gold palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "mortality",
+      "chase"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "Puss in Boots: The Last Wish",
+    "year": 2022
+  },
+  {
+    "data_tags": [
+      "shrek",
+      "3d",
+      "comic",
+      "irreverent",
+      "fairy",
+      "tale"
+    ],
+    "director": "Andrew Adamson and Vicky Jenson",
+    "id": "shrek-swamp-fairy-tale",
+    "image": "/static/assets/real/shrek-swamp-fairy-tale.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Shrek",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "3D",
+    "mood": [
+      "comic",
+      "irreverent"
+    ],
+    "palette": [
+      "swamp",
+      "green"
+    ],
+    "prompt": "A 3d reference with comic irreverent mood, fairy tale reversal story energy, and a swamp green palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "fairy",
+      "tale",
+      "reversal"
+    ],
+    "style": [
+      "3D animation",
+      "polished lighting",
+      "character staging"
+    ],
+    "title": "Shrek",
+    "year": 2001
+  },
+  {
+    "data_tags": [
+      "the nightmare before christmas",
+      "cartoon",
+      "gothic",
+      "whimsical",
+      "holiday",
+      "identity"
+    ],
+    "director": "Henry Selick",
+    "id": "nightmare-before-christmas-town",
+    "image": "/static/assets/real/nightmare-before-christmas-town.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "gothic",
+      "whimsical"
+    ],
+    "palette": [
+      "black",
+      "orange"
+    ],
+    "prompt": "A cartoon reference with gothic whimsical mood, holiday identity story energy, and a black orange palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "holiday",
+      "identity"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "The Nightmare Before Christmas",
+    "year": 1993
+  },
+  {
+    "data_tags": [
+      "fantastic mr. fox",
+      "cartoon",
+      "dry",
+      "warm",
+      "family",
+      "caper"
+    ],
+    "director": "Wes Anderson",
+    "id": "fantastic-mr-fox-autumn",
+    "image": "/static/assets/real/fantastic-mr-fox-autumn.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "dry",
+      "warm"
+    ],
+    "palette": [
+      "autumn",
+      "orange"
+    ],
+    "prompt": "A cartoon reference with dry warm mood, family caper story energy, and a autumn orange palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "family",
+      "caper"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "Fantastic Mr. Fox",
+    "year": 2009
+  },
+  {
+    "data_tags": [
+      "isle of dogs",
+      "cartoon",
+      "deadpan",
+      "loyal",
+      "rescue",
+      "mission"
+    ],
+    "director": "Wes Anderson",
+    "id": "isle-of-dogs-trash-island",
+    "image": "/static/assets/real/isle-of-dogs-trash-island.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Isle_of_Dogs_(film)",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "deadpan",
+      "loyal"
+    ],
+    "palette": [
+      "dust",
+      "red"
+    ],
+    "prompt": "A cartoon reference with deadpan loyal mood, rescue mission story energy, and a dust red palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "rescue",
+      "mission"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "Isle of Dogs",
+    "year": 2018
+  },
+  {
+    "data_tags": [
+      "anomalisa",
+      "cartoon",
+      "lonely",
+      "uncanny",
+      "hotel",
+      "connection"
+    ],
+    "director": "Charlie Kaufman and Duke Johnson",
+    "id": "anomalisa-hotel",
+    "image": "/static/assets/real/anomalisa-hotel.jpg",
+    "image_source_url": "https://en.wikipedia.org/wiki/Anomalisa",
+    "image_status": "real_external_thumbnail",
+    "image_usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution.",
+    "medium": "Cartoon",
+    "mood": [
+      "lonely",
+      "uncanny"
+    ],
+    "palette": [
+      "beige",
+      "red"
+    ],
+    "prompt": "A cartoon reference with lonely uncanny mood, hotel connection story energy, and a beige red palette.",
+    "source_notes": "Title, year, director, and image source are grounded in Wikipedia/Wikimedia page data and manual prototype review. Mood/style/story tags are curated for vibe search and should be replaced or weighted with MovieNet, LIRIS-ACCEDE, MovieGraphs, MovieLens, or MPST labels later.",
+    "sources": [
+      {
+        "fields": [
+          "title",
+          "year",
+          "director",
+          "image"
+        ],
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "image"
+        ],
+        "name": "Wikipedia/Wikimedia page image",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "fields": [
+          "mood",
+          "style",
+          "story",
+          "palette",
+          "data_tags",
+          "prompt"
+        ],
+        "name": "Manual expansion curation",
+        "url": "/readme.md"
+      }
+    ],
+    "story": [
+      "hotel",
+      "connection"
+    ],
+    "style": [
+      "stylized animation",
+      "bold shapes",
+      "expressive staging"
+    ],
+    "title": "Anomalisa",
+    "year": 2015
+  }
+]

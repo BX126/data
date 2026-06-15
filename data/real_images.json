@@ -1,0 +1,218 @@
+{
+  "amelie-paris-whimsy": {
+    "image_name": "Amelie_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/amelie-paris-whimsy.jpg",
+    "page_title": "Am\u00e9lie",
+    "page_url": "https://en.wikipedia.org/wiki/Amelie",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Amelie_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "before-sunset-walk": {
+    "image_name": "Before_Sunset_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/before-sunset-walk.jpg",
+    "page_title": "Before Sunset",
+    "page_url": "https://en.wikipedia.org/wiki/Before_Sunset",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Before_Sunset_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "big-hero-6-family-lab": {
+    "image_name": "Big_Hero_6_%28film%29_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/big-hero-6-family-lab.jpg",
+    "page_title": "Big Hero 6 (film)",
+    "page_url": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%28film%29_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "blade-runner-2049-desert-neon": {
+    "image_name": "Blade_Runner_2049_poster.png",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/blade-runner-2049-desert-neon.png",
+    "page_title": "Blade Runner 2049",
+    "page_url": "https://en.wikipedia.org/wiki/Blade_Runner_2049",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "breaking-bad-red-interior": {
+    "image_name": "1280px-Breaking_Bad_logo.svg.png",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/breaking-bad-red-interior.png",
+    "page_title": "Breaking Bad",
+    "page_url": "https://en.wikipedia.org/wiki/Breaking_Bad",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/1280px-Breaking_Bad_logo.svg.png",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "city-of-god-street-chaos": {
+    "image_name": "CidadedeDeus.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/city-of-god-street-chaos.jpg",
+    "page_title": "City of God (2002 film)",
+    "page_url": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "claymore-dusk-warrior": {
+    "image_name": "ClaymoreCoverTankobon1.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/claymore-dusk-warrior.jpg",
+    "page_title": "Claymore (manga)",
+    "page_url": "https://en.wikipedia.org/wiki/Claymore_(manga)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/4/45/ClaymoreCoverTankobon1.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "cocaine-bear-forest-comedy": {
+    "image_name": "Cocaine_Bear_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/cocaine-bear-forest-comedy.jpg",
+    "page_title": "Cocaine Bear",
+    "page_url": "https://en.wikipedia.org/wiki/Cocaine_Bear",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/a/ab/Cocaine_Bear_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "coraline-gothic-doorway": {
+    "image_name": "Coraline_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/coraline-gothic-doorway.jpg",
+    "page_title": "Coraline (film)",
+    "page_url": "https://en.wikipedia.org/wiki/Coraline_(film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/3/36/Coraline_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "godfather-part-ii-candle-room": {
+    "image_name": "Godfather_part_ii.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/godfather-part-ii-candle-room.jpg",
+    "page_title": "The Godfather Part II",
+    "page_url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "grand-budapest-hotel-corridor": {
+    "image_name": "The_Grand_Budapest_Hotel.png",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/grand-budapest-hotel-corridor.png",
+    "page_title": "The Grand Budapest Hotel",
+    "page_url": "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "her-future-loneliness": {
+    "image_name": "Her2013Poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/her-future-loneliness.jpg",
+    "page_title": "Her (2013 film)",
+    "page_url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "in-the-mood-for-love-corridor": {
+    "image_name": "In_the_Mood_for_Love_movie.webp",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/in-the-mood-for-love-corridor.webp",
+    "page_title": "In the Mood for Love",
+    "page_url": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/In_the_Mood_for_Love_movie.webp",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "jurassic-world-jungle-awe": {
+    "image_name": "Jurassic_World_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/jurassic-world-jungle-awe.jpg",
+    "page_title": "Jurassic World",
+    "page_url": "https://en.wikipedia.org/wiki/Jurassic_World",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "klaus-winter-village": {
+    "image_name": "Klaus_poster.jpeg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/klaus-winter-village.jpeg",
+    "page_title": "Klaus (film)",
+    "page_url": "https://en.wikipedia.org/wiki/Klaus_(film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/2/26/Klaus_poster.jpeg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "little-women-garden-memory": {
+    "image_name": "Little_Women_%282019_film%29.jpeg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/little-women-garden-memory.jpeg",
+    "page_title": "Little Women (2019 film)",
+    "page_url": "https://en.wikipedia.org/wiki/Little_Women_(2019_film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Little_Women_%282019_film%29.jpeg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "lord-of-the-rings-misty-forest": {
+    "image_name": "Lord_Rings_Fellowship_Ring.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/lord-of-the-rings-misty-forest.jpg",
+    "page_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "page_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "pans-labyrinth-underworld": {
+    "image_name": "Pan%27s_Labyrinth.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/pans-labyrinth-underworld.jpg",
+    "page_title": "Pan's Labyrinth",
+    "page_url": "https://en.wikipedia.org/wiki/Pan's_Labyrinth",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Pan%27s_Labyrinth.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "princess-kaguya-brush-dream": {
+    "image_name": "The_Tale_of_the_Princess_Kaguya_%28poster%29.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/princess-kaguya-brush-dream.jpg",
+    "page_title": "The Tale of the Princess Kaguya (film)",
+    "page_url": "https://en.wikipedia.org/wiki/The_Tale_of_the_Princess_Kaguya_(film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Tale_of_the_Princess_Kaguya_%28poster%29.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "scarface-neon-crime-room": {
+    "image_name": "Scarface_-_1983_film.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/scarface-neon-crime-room.jpg",
+    "page_title": "Scarface (1983 film)",
+    "page_url": "https://en.wikipedia.org/wiki/Scarface_(1983_film)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Scarface_-_1983_film.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "spirited-away-bathhouse-night": {
+    "image_name": "Spirited_Away_Japanese_poster.png",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/spirited-away-bathhouse-night.png",
+    "page_title": "Spirited Away",
+    "page_url": "https://en.wikipedia.org/wiki/Spirited_Away",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "the-best-offer-auction-hall": {
+    "image_name": "The_Best_Offer.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/the-best-offer-auction-hall.jpg",
+    "page_title": "The Best Offer",
+    "page_url": "https://en.wikipedia.org/wiki/The_Best_Offer",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Best_Offer.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "the-wind-rises-aviation-dream": {
+    "image_name": "Kaze_Tachinu_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/the-wind-rises-aviation-dream.jpg",
+    "page_title": "The Wind Rises",
+    "page_url": "https://en.wikipedia.org/wiki/The_Wind_Rises",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kaze_Tachinu_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  },
+  "wall-e-silent-robot": {
+    "image_name": "WALL-E_poster.jpg",
+    "image_status": "real_external_thumbnail",
+    "local_path": "/static/assets/real/wall-e-silent-robot.jpg",
+    "page_title": "WALL-E",
+    "page_url": "https://en.wikipedia.org/wiki/WALL-E",
+    "source_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg",
+    "usage_note": "Fetched from Wikipedia/Wikimedia page image metadata for local research prototype use. Verify license or replace before redistribution."
+  }
+}

@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>VibeMatch</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <main>
+      <section class="controls" aria-label="Search">
+        <div class="search-row">
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Search by mood, style, color, director - anything.">
+          <button id="clearSearch" class="ghost-button" type="button">Clear</button>
+        </div>
+      </section>
+
+      <p id="emptyState" class="empty-state" hidden>No matching vibes yet. Try a broader mood, color, or story beat.</p>
+
+      <section id="sceneGrid" class="scene-grid" aria-label="Scene references">
+        {% for scene in scenes %}
+          <article
+            class="scene-card"
+            data-scene-id="{{ scene.id }}"
+            data-medium="{{ scene.medium }}"
+            data-search="{{ scene.search_text }}"
+            tabindex="0"
+          >
+            {% if scene.image and scene.image_status != "missing" %}
+              <img class="scene-image" src="{{ scene.image }}" alt="Generated original reference image for {{ scene.title }}">
+            {% endif %}
+            <div class="card-body">
+              <div class="card-topline">
+                <span class="medium-pill">{{ scene.medium }}</span>
+                <span>{{ scene.year }}</span>
+              </div>
+              <h2>{{ scene.title }}</h2>
+              <p class="credit">{{ scene.year }} / {{ scene.director }}</p>
+              <div class="tag-row">
+                {% for tag in (scene.mood + scene.style + scene.palette)[:4] %}
+                  <span>{{ tag }}</span>
+                {% endfor %}
+              </div>
+            </div>
+          </article>
+        {% endfor %}
+      </section>
+    </main>
+
+    <div id="modalOverlay" class="modal-overlay" hidden>
+      <div class="modal-shell" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <button id="modalClose" class="modal-close" type="button" aria-label="Close">x</button>
+        {% for scene in scenes %}
+          <article class="modal-content" data-modal-id="{{ scene.id }}" hidden>
+            {% if scene.image and scene.image_status != "missing" %}
+              <img class="modal-image" src="{{ scene.image }}" alt="Generated original reference image for {{ scene.title }}">
+            {% endif %}
+            <div class="modal-grid">
+              <section class="modal-main">
+                <div class="modal-title-row">
+                  <div>
+                    <p class="kicker">{{ scene.medium }}</p>
+                    <h2 id="modalTitle">{{ scene.title }}</h2>
+                    <p class="credit">{{ scene.year }} / {{ scene.director }}</p>
+                  </div>
+                </div>
+
+                <div class="detail-block">
+                  <h3>Mood</h3>
+                  <div class="tag-row">
+                    {% for tag in scene.mood %}
+                      <span>{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                </div>
+
+                <div class="detail-block">
+                  <h3>Style</h3>
+                  <div class="tag-row">
+                    {% for tag in scene.style %}
+                      <span>{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                </div>
+
+                <div class="detail-block">
+                  <h3>Story</h3>
+                  <div class="tag-row">
+                    {% for tag in scene.story %}
+                      <span>{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                </div>
+
+                <div class="detail-block">
+                  <h3>Palette</h3>
+                  <div class="tag-row">
+                    {% for tag in scene.palette %}
+                      <span>{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                </div>
+
+                <div class="detail-block">
+                  <h3>Data Tags</h3>
+                  <div class="tag-row">
+                    {% for tag in scene.data_tags %}
+                      <span>{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                </div>
+
+                <div class="prompt-box">
+                  <h3>Generation Prompt</h3>
+                  <p>{{ scene.prompt }}</p>
+                </div>
+              </section>
+
+              <aside class="modal-side">
+                <div class="side-block">
+                  <h3>Similar Vibes</h3>
+                  <div class="similar-list">
+                    {% for similar in scene.similar_scenes %}
+                      <button class="similar-card" type="button" data-open-scene="{{ similar.id }}">
+                        {% if similar.image and similar.image_status != "missing" %}
+                          <img src="{{ similar.image }}" alt="">
+                        {% endif %}
+                        <span>
+                          <strong>{{ similar.title }}</strong>
+                          <small>{{ similar.medium }} / {{ similar.year }}</small>
+                        </span>
+                      </button>
+                    {% endfor %}
+                  </div>
+                </div>
+              </aside>
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>
